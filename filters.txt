@@ -120,6 +120,7 @@ twitch.tv,twitter.com#@#.follow-btn
 ||pixel.*
 ||im9.cz^
 ||dopc.cz^
+||hit.*
 
 ! 5/29/2018, 9:00:02 PM https://www.reddit.com/r/PUBATTLEGROUNDS/
 www.reddit.com##.joubzh.s17plnzy-2
