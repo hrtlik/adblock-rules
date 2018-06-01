@@ -118,7 +118,6 @@ twitch.tv,twitter.com#@#.follow-btn
 ||track.*
 ||tracking.*
 ||pixel.*
-||im9.cz^
 ||hit.*
 https://1gr.cz/js/lidovky/ln5/RumAnalytics.min.js
 www.reddit.com##.joubzh.s17plnzy-2
