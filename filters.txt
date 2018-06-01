@@ -130,3 +130,4 @@ reddit.com##.promotedlink
 ||cdn.targito.com^
 ||api.luigisbox.com^
 ||contentexchange.me^
+||imasdk.googleapis.com^
