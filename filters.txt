@@ -130,4 +130,4 @@ reddit.com###siteTable_organic
 reddit.com##.promotedlink
 ||cdn.targito.com^
 ||api.luigisbox.com^
-||contentexchange.me^
+! ||contentexchange.me^
