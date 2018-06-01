@@ -121,14 +121,13 @@ twitch.tv,twitter.com#@#.follow-btn
 ||im9.cz^
 ||dopc.cz^
 ||hit.*
-
-! 5/29/2018, 9:00:02 PM https://www.reddit.com/r/PUBATTLEGROUNDS/
+https://1gr.cz/js/lidovky/ln5/RumAnalytics.min.js
 www.reddit.com##.joubzh.s17plnzy-2
-
 ||reddit.com/api/request_promo.json
 ||reddit.com^*_sponsor.png?
 ||redditstatic.com/moat/
 reddit.com###siteTable_organic
 reddit.com##.promotedlink
-||cdn.targito.com
-||api.luigisbox.com
+||cdn.targito.com^
+||api.luigisbox.com^
+||contentexchange.me^
