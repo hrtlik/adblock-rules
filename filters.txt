@@ -130,4 +130,4 @@ reddit.com##.promotedlink
 ||api.luigisbox.com^
 ||contentexchange.me^
 ||imasdk.googleapis.com^
-||platform.twitter.com$third-party
+||platform.twitter.com$domain=~twitter.com
