@@ -114,7 +114,8 @@ twitch.tv,twitter.com#@#.follow-btn
 ||geoservice.curse.com^
 ||metrics.gfycat.com^
 ||m6r.eu^
-||ad*$domain=~adguard.com|~adobe.com|~adobe.cz
+||ad.*
+||ads.*
 ||track.*
 ||tracking.*
 ||pixel.*
