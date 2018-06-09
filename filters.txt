@@ -133,6 +133,7 @@ reddit.com##.promotedlink
 ||imasdk.googleapis.com^
 ||platform.twitter.com$domain=~twitter.com
 ||chatenabled.mail.google.com^
+||2mdn.net^
 
 ! GMAIL VIZUALNI FILTRY
 mail.google.com##.W6eDmd.T-I-Js-IF.T-I-Js-Gs.T-I-ax7.bvt.J-J5-Ji.T-I
