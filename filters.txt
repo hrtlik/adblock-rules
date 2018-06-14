@@ -134,11 +134,3 @@ reddit.com##.promotedlink
 ||platform.twitter.com$domain=~twitter.com
 ||chatenabled.mail.google.com^
 ||2mdn.net^
-
-! GMAIL VIZUALNI FILTRY
-mail.google.com##.W6eDmd.T-I-Js-IF.T-I-Js-Gs.T-I-ax7.bvt.J-J5-Ji.T-I
-mail.google.com###\:5i
-mail.google.com###\:5i > .asa
-mail.google.com##.W6eDmd.T-I-Js-IF.T-I-ax7.nv.J-J5-Ji.T-I
-mail.google.com##.xY.apU
-mail.google.com###\:6q
