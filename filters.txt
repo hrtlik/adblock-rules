@@ -115,7 +115,7 @@ twitch.tv,twitter.com#@#.follow-btn
 ||metrics.gfycat.com^
 ||m6r.eu^
 ||ad.*
-||ads.*
+||ads.*$domain=~ads.google.com,~adwords.google.com
 ||track.*
 ||tracking.*
 ||pixel.*
