@@ -135,3 +135,4 @@ reddit.com##.promotedlink
 ||chatenabled.mail.google.com^
 ||2mdn.net^
 ||smartlook.com
+||muxy.io^
