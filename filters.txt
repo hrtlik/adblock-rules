@@ -114,6 +114,7 @@ twitch.tv,twitter.com#@#.follow-btn
 ||geoservice.curse.com^
 ||metrics.gfycat.com^
 ||m6r.eu^
+||adservice.*
 ||ad.*
 ||ads.*$domain=~ads.google.com,~adwords.google.com
 ||track.*
@@ -136,3 +137,4 @@ reddit.com##.promotedlink
 ||2mdn.net^
 ||smartlook.com
 ||muxy.io^
+||extension-files.twitch.tv^
