@@ -138,3 +138,4 @@ reddit.com##.promotedlink
 ||smartlook.com
 ||muxy.io^
 ||extension-files.twitch.tv^
+||smartsuppchat.com
