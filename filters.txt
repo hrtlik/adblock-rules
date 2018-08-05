@@ -140,3 +140,5 @@ reddit.com##.promotedlink
 ||extension-files.twitch.tv^
 ||smartsuppchat.com
 ||network-n.com
+||flixcar.com
+||flixfacts.com
