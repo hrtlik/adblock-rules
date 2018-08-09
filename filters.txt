@@ -142,3 +142,4 @@ reddit.com##.promotedlink
 ||network-n.com
 ||flixcar.com
 ||flixfacts.com
+||bbelements.com
