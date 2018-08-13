@@ -143,3 +143,17 @@ reddit.com##.promotedlink
 ||flixcar.com
 ||flixfacts.com
 ||bbelements.com
+www.grunex.com###sda--fullbrand-video
+www.dotabuff.com##.vm-skin-left.vm-skin
+www.dotabuff.com###kunkka-top-leaderboard
+www.dotabuff.com##.wukong-wide
+www.dotabuff.com###kunkka-bottom-leaderboard
+www.opendota.com##div.eHpltT.sc-eInJlc:nth-of-type(4)
+www.opendota.com##div.eHpltT.sc-eInJlc:nth-of-type(2)
+www.opendota.com##.matchButtons > [href^="https://moremmr.com"]
+www.opendota.com##.matchButtons > [href^="https://glhf.rivalry.gg/get-started-dota/"]
+www.opendota.com##[href^="//dotacoach.org/Hire/OpenDota"]
+||duckduckgo.com/assets/logo_header.v107.lg.svg$image
+duckduckgo.com##.social.header--aside__item
+duckduckgo.com##.header__label.showcase.header--aside__item
+www.twitch.tv##.extension-taskbar
