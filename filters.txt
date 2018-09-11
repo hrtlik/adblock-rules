@@ -157,3 +157,4 @@ www.opendota.com##[href^="//dotacoach.org/Hire/OpenDota"]
 duckduckgo.com##.social.header--aside__item
 duckduckgo.com##.header__label.showcase.header--aside__item
 www.twitch.tv##.extension-taskbar
+||us.adserver.yahoo.com
