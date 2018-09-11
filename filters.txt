@@ -160,4 +160,5 @@ www.twitch.tv##.extension-taskbar
 ||us.adserver.yahoo.com
 ||beap.bc.yahoo.com
 nexac.com
+r.nexac.com
 
