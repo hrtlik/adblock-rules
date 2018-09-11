@@ -117,7 +117,7 @@ twitch.tv,twitter.com#@#.follow-btn
 ||adservice.*
 ||ad.*
 ||ads.*$domain=~ads.google.com,~adwords.google.com
-||track.*
+||track.*$domain=~track.aliexpress.com
 ||tracking.*
 ||pixel.*
 ||hit.*
