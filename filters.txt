@@ -161,4 +161,8 @@ www.twitch.tv##.extension-taskbar
 ||beap.bc.yahoo.com
 nexac.com
 r.nexac.com
+www.twitch.tv##.js-player-ad-overlay.player-ad-overlay
+www.twitch.tv##.player-ad-overlay.player-overlay
+https://imasdk.googleapis.com/js/sdkloader/ima3.js
+
 
