@@ -163,7 +163,8 @@ nexac.com
 r.nexac.com
 www.twitch.tv##.js-player-ad-overlay.player-ad-overlay
 www.twitch.tv##.player-ad-overlay.player-overlay
-https://imasdk.googleapis.com/js/sdkloader/ima3.js
-
+imasdk.googleapis.com/js/sdkloader/ima3.js
+c.amazon-adsystem.com/aax2/apstag.js
+cdn-gl.imrworldwide.com
 
 
