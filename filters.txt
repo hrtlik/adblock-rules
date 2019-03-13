@@ -166,5 +166,6 @@ www.twitch.tv##.player-ad-overlay.player-overlay
 imasdk.googleapis.com/js/sdkloader/ima3.js
 c.amazon-adsystem.com/aax2/apstag.js
 cdn-gl.imrworldwide.com
+twitch.tv##+js(twitch-videoad.js)
 
 
