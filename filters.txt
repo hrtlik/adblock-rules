@@ -167,5 +167,6 @@ imasdk.googleapis.com/js/sdkloader/ima3.js
 c.amazon-adsystem.com/aax2/apstag.js
 cdn-gl.imrworldwide.com
 twitch.tv##+js(twitch-videoad.js)
+|http://*?c.*&c.*&c.*&c.*&c.abls[0]=*&c.uri=*&b[0].type=*&jscb=$script
 
 
