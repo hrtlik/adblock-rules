@@ -105,10 +105,6 @@ seznam.cz#@#.adMiddle
 ||syndication.twitter.com
 https://platform.twitter.com/jot.html
 https://graph.instagram.com/logging_client_events
-twitch.tv##.header-announcement__wrapper
-twitch.tv###noty_bottomCenter_layout_container
-twitch.tv##.toast-manager__container
-twitch.tv,twitter.com#@#.follow-btn
 ||summerhamster.com^
 ||consensu.org^
 ||geoservice.curse.com^
