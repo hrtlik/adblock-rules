@@ -163,5 +163,12 @@ imasdk.googleapis.com/js/sdkloader/ima3.js
 c.amazon-adsystem.com/aax2/apstag.js
 cdn-gl.imrworldwide.com
 twitch.tv##+js(twitch-videoad.js)
+||www.opendota.com/assets/images/vp-banner.jpg$image
+||www.opendota.com/assets/images/rivalry-banner.gif$image
+www.seznam.cz##.gadget__advert-title
+www.seznam.cz##.ad-content.gadget--reklama.gadget
+www.dotabuff.com##.sponsor_side.elo-placement
+www.dotabuff.com##.leaderboard_a.elo-placement > div > [href^="https://as01.dotabuff.com/c"]
+
 
 
