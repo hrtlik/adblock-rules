@@ -175,9 +175,7 @@ www.twitch.tv##.tw-pd-1.tw-flex.tw-elevation-2.tw-c-background-accent.tw-border-
 
 ! 10/23/2019 https://liquipedia.net
 liquipedia.net###top-ad
-liquipedia.net##p:nth-of-type(1)
-liquipedia.net##dd > i
-liquipedia.net###wiki-nav
+
 
 
 
