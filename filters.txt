@@ -169,11 +169,7 @@ www.seznam.cz##.gadget__advert-title
 www.seznam.cz##.ad-content.gadget--reklama.gadget
 www.dotabuff.com##.sponsor_side.elo-placement
 www.dotabuff.com##.leaderboard_a.elo-placement > div > [href^="https://as01.dotabuff.com/c"]
-
-! 10/5/2019 https://www.twitch.tv
 www.twitch.tv##.tw-pd-1.tw-flex.tw-elevation-2.tw-c-background-accent.tw-border-radius-none.tw-align-items-center
-
-! 10/23/2019 https://liquipedia.net
 liquipedia.net###top-ad
 
 
