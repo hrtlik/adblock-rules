@@ -171,6 +171,7 @@ www.dotabuff.com##.sponsor_side.elo-placement
 www.dotabuff.com##.leaderboard_a.elo-placement > div > [href^="https://as01.dotabuff.com/c"]
 www.twitch.tv##.tw-pd-1.tw-flex.tw-elevation-2.tw-c-background-accent.tw-border-radius-none.tw-align-items-center
 liquipedia.net###top-ad
+scorecardresearch.com
 
 
 
