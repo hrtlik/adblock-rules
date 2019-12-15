@@ -160,7 +160,6 @@ r.nexac.com
 www.twitch.tv##.js-player-ad-overlay.player-ad-overlay
 www.twitch.tv##.player-ad-overlay.player-overlay
 imasdk.googleapis.com/js/sdkloader/ima3.js
-c.amazon-adsystem.com/aax2/apstag.js
 cdn-gl.imrworldwide.com
 twitch.tv##+js(twitch-videoad.js)
 ||www.opendota.com/assets/images/vp-banner.jpg$image
@@ -173,6 +172,8 @@ www.twitch.tv##.tw-pd-1.tw-flex.tw-elevation-2.tw-c-background-accent.tw-border-
 liquipedia.net###top-ad
 scorecardresearch.com
 amazon-adsystem.com
+google-analytics.com
+googletagmanager.com
 
 
 
