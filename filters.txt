@@ -185,6 +185,8 @@ persoo.cz
 liquipedia.net###wiki-nav
 quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
 c.amazon-adsystem.com
+upscri.be
+didna.io
 
 
 
