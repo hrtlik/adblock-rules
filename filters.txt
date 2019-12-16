@@ -182,6 +182,7 @@ onesignal.com
 customize.cz
 cdn.onesignal.com
 persoo.cz
+1gr.cz
 
 
 
