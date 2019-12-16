@@ -181,6 +181,7 @@ pardot.com
 onesignal.com
 customize.cz
 cdn.onesignal.com
+persoo.cz
 
 
 
