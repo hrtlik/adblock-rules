@@ -182,6 +182,9 @@ onesignal.com
 customize.cz
 cdn.onesignal.com
 persoo.cz
+liquipedia.net###wiki-nav
+quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
+
 
 
 
