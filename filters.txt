@@ -155,8 +155,8 @@ duckduckgo.com##.header__label.showcase.header--aside__item
 www.twitch.tv##.extension-taskbar
 ||us.adserver.yahoo.com
 ||beap.bc.yahoo.com
-nexac.com
-r.nexac.com
+nexac.com$third-party
+r.nexac.com$third-party
 www.twitch.tv##.js-player-ad-overlay.player-ad-overlay
 www.twitch.tv##.player-ad-overlay.player-overlay
 imasdk.googleapis.com/js/sdkloader/ima3.js
@@ -170,23 +170,23 @@ www.dotabuff.com##.sponsor_side.elo-placement
 www.dotabuff.com##.leaderboard_a.elo-placement > div > [href^="https://as01.dotabuff.com/c"]
 www.twitch.tv##.tw-pd-1.tw-flex.tw-elevation-2.tw-c-background-accent.tw-border-radius-none.tw-align-items-center
 liquipedia.net###top-ad
-scorecardresearch.com
-amazon-adsystem.com
-google-analytics.com
-googletagmanager.com
-zemanta.com
-branch.io
-onthe.io
-pardot.com
-onesignal.com
-customize.cz
-cdn.onesignal.com
-persoo.cz
+scorecardresearch.com$third-party
+amazon-adsystem.com$third-party
+google-analytics.com$third-party
+googletagmanager.com$third-party
+zemanta.com$third-party
+branch.io$third-party
+onthe.io$third-party
+pardot.com$third-party
+onesignal.com$third-party
+customize.cz$third-party
+cdn.onesignal.com$third-party
+persoo.cz$third-party
 liquipedia.net###wiki-nav
 quizlet.com##.SetPageTerms-embeddedDesktopAdWrapper
 c.amazon-adsystem.com
-upscri.be
-didna.io
+upscri.be$third-party
+didna.io$third-party
 
 
 
