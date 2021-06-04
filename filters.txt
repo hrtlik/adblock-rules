@@ -114,7 +114,7 @@ https://graph.instagram.com/logging_client_events
 ||ad.*
 ||ads.*$domain=~ads.google.com,~adwords.google.com
 ||track.*$domain=~track.aliexpress.com
-||tracking.*
+||tracking.*$domain=~tracking.packeta.com
 ||pixel.*
 ||hit.*
 https://1gr.cz/js/lidovky/ln5/RumAnalytics.min.js
